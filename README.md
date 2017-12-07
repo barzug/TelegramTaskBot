@@ -1,7 +1,7 @@
 # TelegramTaskBot
 
-## Master application 
 ### [https://lolkekbot.herokuapp.com](https://lolkekbot.herokuapp.com)
+
 
 * `/tasks`
 * `/new XXX YYY ZZZ` - создаёт новую задачу
