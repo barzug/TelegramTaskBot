@@ -14,7 +14,7 @@ import (
 var (
 	// @BotFather gives you this
 	BotToken   = "496482011:AAFYJnPB6lHpFGv0dl61vtU-CkGnRAEzapw"
-	WebhookURL = "https://5dec24a6.ngrok.io"
+	WebhookURL = "https://lolkekbot.herokuapp.com"
 )
 
 const (
